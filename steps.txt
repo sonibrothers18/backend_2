@@ -1,0 +1,10 @@
+npm init -y
+
+npm i express
+
+npm i ejs
+
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+
+<%= %> used for printing on screen
+<% %> used for doing some stuff like loop, if else
